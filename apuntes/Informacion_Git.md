@@ -320,4 +320,4 @@ Merge con master de un fork
 ## NOTAS
 Para un mejor desarrollo adjuntamos un enlace a una pagina en la que nos da todas las introducciones rápidas para la introducción al mundo de GitHub así como opciones de descarga.
 
-***[BIENVENIDO AL MUNDO DE GITHUB]***(https://rogerdudler.github.io/git-guide/index.es.html)
+[***BIENVENIDO AL MUNDO DE GITHUB***](https://rogerdudler.github.io/git-guide/index.es.html)
