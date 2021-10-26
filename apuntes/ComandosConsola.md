@@ -3,9 +3,9 @@
 los comandos de consola nos ayudan a realizar diversas tareas a travez de una terminal, lo que hariamos son acciones que se realizarian a nivel grafico pero que se realizan a nivel de consola.
 
 ### Comandos en consolas windows y linux
-|COMANDOS |ARCHIVOS	|MSDOS	|LINUX|
-|---------|---------|-------|-----|
-|**Ver contenido**	|type archivo.txt	|cat archivo.txt|
+|COMANDOS ARCHIVOS	|MSDOS	|LINUX|
+|-------------------|-------|-----|
+|**Ver contenido**	|`type archivo.txt`|cat archivo.txt|
 |**Archivo vacío**	|copy nul archivo.txt	|touch archivo.txt|
 |**Archivo con texto**	|echo hola como estas > archivo.txt    O    copy con archivo.txt	|cat > archivo.txt |
 |**Borrar archivo**	|del archivo.txt	|rm archivo.txt|
